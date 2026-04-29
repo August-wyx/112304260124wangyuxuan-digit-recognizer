@@ -182,7 +182,7 @@ digit/
 | GitHub 仓库地址 | https://github.com/August-wyx/112304260124wangyuxuan-digit-recognizer |
 | 在线访问链接 | https://wyx-cnn-digit-recognizer.onrender.com |
 
-**（请在此处粘贴：Web 页面截图 + 预测结果截图）**
+![Web 页面截图](digit-recognizer.png)
 
 
 
