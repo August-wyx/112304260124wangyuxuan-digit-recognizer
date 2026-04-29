@@ -95,7 +95,7 @@
 - 标注每条曲线对应的实验编号
 - 使用 `matplotlib` 绘制
 
-![Loss Curve](loss_plot.png)
+![Loss Curve](images/loss_plot.png)
 
 
 
@@ -162,8 +162,13 @@ digit/
 │   └── sample_submission.csv # 提交示例
 ├── models/                 # 模型权重目录
 │   └── model.pth           # 预训练模型权重
+├── images/                 # 图片目录
+│   ├── loss_plot.png       # 训练损失曲线图
+│   ├── digit-recognizer.png # Web 页面截图
+│   └── handwriting_demo.png # 手写识别截图
 ├── README.md
 ├── requirements.txt
+├── render.yaml
 └── .gitignore
 ```
 
@@ -182,7 +187,7 @@ digit/
 | GitHub 仓库地址 | https://github.com/August-wyx/112304260124wangyuxuan-digit-recognizer |
 | 在线访问链接 | https://wyx-cnn-digit-recognizer.onrender.com |
 
-![Web 页面截图](digit-recognizer.png)
+![Web 页面截图](images/digit-recognizer.png)
 
 
 
@@ -223,7 +228,7 @@ digit/
 
 **（请在此处粘贴：手写输入截图 + 识别结果截图）**
 
-![手写输入与识别结果截图](handwriting_demo.png)
+![手写输入与识别结果截图](images/handwriting_demo.png)
 
 
 
