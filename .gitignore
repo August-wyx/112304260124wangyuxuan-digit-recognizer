@@ -38,4 +38,4 @@ venv/
 Thumbs.db
 
 # 训练输出
-loss_plot.png
+# loss_plot.png  # 允许提交到 images 文件夹
