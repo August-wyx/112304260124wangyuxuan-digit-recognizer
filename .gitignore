@@ -11,10 +11,10 @@ data/test.csv
 data/*.pkl
 data/*.npy
 
-# 模型文件
-models/*.pth
-models/*.pt
-models/*.h5
+# 模型文件 (允许推送)
+# models/*.pth
+# models/*.pt
+# models/*.h5
 
 # 日志文件
 *.log
