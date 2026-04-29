@@ -6,7 +6,8 @@ __pycache__/
 .Python
 
 # 数据文件
-data/*.csv
+data/train.csv
+data/test.csv
 data/*.pkl
 data/*.npy
 
