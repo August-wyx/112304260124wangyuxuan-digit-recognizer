@@ -1,0 +1,40 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 数据文件
+data/*.csv
+data/*.pkl
+data/*.npy
+
+# 模型文件
+models/*.pth
+models/*.pt
+models/*.h5
+
+# 日志文件
+*.log
+logs/
+
+# 环境配置
+.env
+.venv/
+venv/
+.env.local
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 训练输出
+loss_plot.png
